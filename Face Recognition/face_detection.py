@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+
 # coding: utf-8
 
-# In[1]:
+# In[2]:
 
 
 import cv2
@@ -37,7 +37,6 @@ def detect(gray, frame):
 # In[6]:
 
 
-
 video_capture = cv2.VideoCapture(0) 
 
 
@@ -53,21 +52,10 @@ while True:
         break 
 
 
-# In[8]:
+# In[9]:
 
 
 video_capture.release() 
 cv2.destroyAllWindows() 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
