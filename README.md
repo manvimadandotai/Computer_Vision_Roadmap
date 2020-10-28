@@ -8,6 +8,8 @@ This repository contains the process I am following to learn Computer Vision. I 
 4. Navigate to the folder with installation files using cd command
 5. Run this command for setting up dependencies on Mac: `conda env create -f virtual_platform_mac.yml` 
 6. Windows and Linux users can run the same command as `conda env create -f virtual_platform_windows.yml` and `conda env create -f virtual_platform_linux.yml` , respectively. 
+7. This will setup a virtual_platform on your system with all the dependencies 
+8. Go to Anaconda application on your machine and on the top right 
 
 
 
