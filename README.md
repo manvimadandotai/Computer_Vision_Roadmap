@@ -13,6 +13,12 @@ This repository contains the process I am following to learn Computer Vision. I 
 9. Download the 2 xml files, namely  haarcascade_eye.xml and harcascade_frontalface_default.xml to a known location on your machine.
 10. Change the reference location of these 2 xml files while running the face_detection.py script
 
+# Results
+
+1. Face Detection
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 # Interesting Blog Posts
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
