@@ -2,8 +2,9 @@
 This repository contains the process I am following to learn Computer Vision. I am starting from the very beginning, so the level of projects would behind from most basic and hopefully become somewhat advanced as this repository evolves. Follow along if you are keen to explore the fantastic projects you can make using Computer Vision capabilities along with Deep Learning.
 
 # Requirements for Face Detection
-Step 1: Download [Anaconda](https://anaconda.org)
-Step 2: Mac and Linux users, fire up the terminal. Windows users can open Anaconda Prompt after downloading Anaconda.
+1. Download [Anaconda](https://anaconda.org)
+2. Mac and Linux users, fire up the terminal. Windows users can open Anaconda Prompt after downloading Anaconda
+3.
 
 
 
