@@ -4,7 +4,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 # Requirements for Face Detection
 1. Download [Anaconda](https://anaconda.org)
 2. Mac and Linux users, fire up the terminal. Windows users can open Anaconda Prompt after downloading Anaconda
-3. Run this command: 'conda env create -f virtual_platform_mac.yml'
+3. Run this command: `conda env create -f virtual_platform_mac.yml`
 
 
 
