@@ -19,6 +19,8 @@ This repository contains the process I am following to learn Computer Vision. I 
 ![Face detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%202020-10-27%20at%209.17.42%20PM.png "Face detection")
 ![Face and eyes Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%202020-10-27%20at%209.17.56%20PM.png "Face and eyes Detection")
 
+# Books
+
 # Interesting Blog Posts
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
 * Viola Jones Algorithm for face detection - [Link](https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999)
