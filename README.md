@@ -20,7 +20,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 ![Face and eyes Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%202020-10-27%20at%209.17.56%20PM.png "Face and eyes Detection")
 
 # Books
-Deep Learning with Python - [Link](https://www.manning.com/books/deep-learning-with-python) 
+[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) 
 
 # Interesting Blog Posts
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
