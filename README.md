@@ -21,6 +21,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 
 # Books
 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) 
+[Deep Learning by Ian Goodfellow and Yoshua Benjio and Aaron Cornville](https://www.deeplearningbook.org)
 
 # Interesting Blog Posts
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
