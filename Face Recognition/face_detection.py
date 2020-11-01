@@ -1,27 +1,31 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # In[2]:
 
 
+#Importing the Open CV library
 import cv2
 
 
 # In[3]:
 
 
+#Loading XMLs with haar- like features for face detection
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') 
 
 
 # In[4]:
 
 
+#Loading XMLs with haar- like features for eye detection
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml') 
 
 
 # In[5]:
 
 
+#Function for face detection
 def detect(gray, frame):  
     faces = face_cascade.detectMultiScale(gray, 1.3, 5) 
     for (x, y, w, h) in faces: 
@@ -37,12 +41,14 @@ def detect(gray, frame):
 # In[6]:
 
 
+#Use camera on the machine to capture real-time video
 video_capture = cv2.VideoCapture(0) 
 
 
 # In[7]:
 
 
+#Keep detecting face till the user presses q
 while True: 
     _, frame = video_capture.read() 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) 
@@ -55,7 +61,19 @@ while True:
 # In[9]:
 
 
+#When user presses q, release the video capture and close windows
 video_capture.release() 
 cv2.destroyAllWindows() 
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
 
 
