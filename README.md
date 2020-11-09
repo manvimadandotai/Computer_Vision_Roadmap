@@ -31,3 +31,4 @@ This repository contains the process I am following to learn Computer Vision. I 
 * OpenCV3 Object Detection - [Link](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php)
 
 # Research Papers
+* [SSD](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
