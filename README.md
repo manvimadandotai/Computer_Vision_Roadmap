@@ -19,6 +19,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 ![Face detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%201.png "Face detection")
 ![Face and eyes Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%202.png "Face and eyes Detection")
 
+2. Object Detection 
 # Books
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) 
 * [Deep Learning by Ian Goodfellow and Yoshua Benjio and Aaron Cornville](https://www.deeplearningbook.org)
