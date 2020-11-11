@@ -21,6 +21,9 @@ This repository contains the process I am following to learn Computer Vision. I 
 
 2. Object Detection 
 ![Real Time Object Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Object%20Detection/Output/Object_detection_output_snip.png)
+[Output Video]
+
+
 # Books
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) 
 * [Deep Learning by Ian Goodfellow and Yoshua Benjio and Aaron Cornville](https://www.deeplearningbook.org)
