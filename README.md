@@ -26,6 +26,8 @@ This repository contains the process I am following to learn Computer Vision. I 
 9. Download the 2 xml files, namely  haarcascade_eye.xml and harcascade_frontalface_default.xml to a known location on your machine.
 10. Change the reference location of these 2 xml files while running the face_detection.py script
 11. Take all the files inside the Object Detection folder from Github Repository and upload them onto jupyter notebook home. ( all the files except Output, obviously!)
+12. Now run the cells one-by-one in the Object Detection jupyter notebook.
+13. You will see an output file being generated. Open the file and enjoy the video! 
 # Results
 
 1. Face Detection
