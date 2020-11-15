@@ -15,6 +15,17 @@ This repository contains the process I am following to learn Computer Vision. I 
 
 # Requirements for Object Detection
 
+1. Download [Anaconda](https://anaconda.org)
+2. Download the [Installation](https://github.com/manvimadan12/Computer_Vision_Roadmap/tree/main/Face%20Recognition/Installations) files from the [Face Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/tree/main/Face%20Recognition) folder in the repository
+3. Mac and Linux users, fire up the terminal. Windows users can open Anaconda Prompt after downloading Anaconda
+4. Navigate to the folder with installation files using cd command
+5. Run this command for setting up dependencies on Mac: `conda env create -f virtual_platform_mac.yml` 
+6. Windows and Linux users can run the same command as `conda env create -f virtual_platform_windows.yml` and `conda env create -f virtual_platform_linux.yml` , respectively. 
+7. This will setup a virtual_platform on your system with all the dependencies 
+8. Go to Anaconda application on your machine and on the top left where you can see root, select Virtual_Platform from the drop down list
+9. Download the 2 xml files, namely  haarcascade_eye.xml and harcascade_frontalface_default.xml to a known location on your machine.
+10. Change the reference location of these 2 xml files while running the face_detection.py script
+
 # Results
 
 1. Face Detection
