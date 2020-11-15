@@ -25,7 +25,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 8. Go to Anaconda application on your machine and on the top left where you can see root, select Virtual_Platform from the drop down list
 9. Download the 2 xml files, namely  haarcascade_eye.xml and harcascade_frontalface_default.xml to a known location on your machine.
 10. Change the reference location of these 2 xml files while running the face_detection.py script
-
+11. Take all the files inside the Object Detection folder from Github Repository and upload them onto jupyter notebook home.
 # Results
 
 1. Face Detection
