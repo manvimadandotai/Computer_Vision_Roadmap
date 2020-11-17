@@ -50,6 +50,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 * Viola Jones Algorithm for face detection - [Link](https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999)
 * OpenCV3 Object Detection - [Link](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php)
 * SSD - [Link](https://jonathan-hui.medium.com/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
+* GANs - [Link](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
 # Research Papers
 * [SSD](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
 * [Viola Jones](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/Rapid%20Object%20Detection.pdf)
