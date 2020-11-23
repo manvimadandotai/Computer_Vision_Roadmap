@@ -37,6 +37,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 7. This will setup a virtual_platform on your system with all the dependencies 
 8. Go to Anaconda application on your machine and on the top left where you can see root, select Virtual_Platform from the drop down list
 9. Download data by following the steps given here: [cifar-dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
+10. Save the data in a folder in Jupyter notebooks. Name the folder 'data_for_gan'
 # Results
 
 1. Face Detection
