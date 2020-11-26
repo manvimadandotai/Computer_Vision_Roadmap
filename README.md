@@ -27,7 +27,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 10. Now run the cells one-by-one in the Object Detection jupyter notebook.
 11. You will see an output file being generated. Open the file and enjoy the video! 
 
-# Requirements for Object Detection
+# Requirements for Real time Object Detection
 1. Download [Anaconda](https://anaconda.org)
 2. Download the [Installation](https://github.com/manvimadan12/Computer_Vision_Roadmap/tree/main/Face%20Recognition/Installations) files from the [Face Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/tree/main/Face%20Recognition) folder in the repository
 3. Mac and Linux users, fire up the terminal. Windows users can open Anaconda Prompt after downloading Anaconda
@@ -44,7 +44,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 ![Face detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%201.png "Face detection")
 ![Face and eyes Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Face%20Recognition/Results/Screen%20Shot%202.png "Face and eyes Detection")
 
-2. Object Detection 
+2. Real- Time Object Detection 
 ![Real Time Object Detection](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Object%20Detection/Output/Object_detection_output_snip.png)
 [Output Video](https://github.com/manvimadan12/Computer_Vision_Roadmap/blob/main/Object%20Detection/Output/output.mp4)
 
