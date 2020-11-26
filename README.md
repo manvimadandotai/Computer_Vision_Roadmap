@@ -57,6 +57,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 * [Deep Learning by Ian Goodfellow and Yoshua Benjio and Aaron Cornville](https://www.deeplearningbook.org)
 
 # Courses
+* [Deep Learning and Computer Vision A-Z](https://www.udemy.com/course/computer-vision-a-z/)
 
 # Interesting Blog Posts
 * Everything you need to know about Computer Vision - [Link](https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e)
@@ -64,6 +65,7 @@ This repository contains the process I am following to learn Computer Vision. I 
 * OpenCV3 Object Detection - [Link](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php)
 * SSD - [Link](https://jonathan-hui.medium.com/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
 * GANs - [Link](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
+
 # Research Papers
 * [SSD](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/1512.02325.pdf)
 * [Viola Jones](https://github.com/manvimadan12/ML-Research-Papers-/blob/master/Computer%20Vision/Rapid%20Object%20Detection.pdf)
